@@ -17,7 +17,7 @@ Tendras un archivo main o main.exe
 
 Para mas ayuda en la consula ejecute main.exe --help
 
-```./main --smtp=mail.SUHOST.es --puerto=25 --from=SUCORREO@HOST.es --password='CLAVE' --sendto=CORREODESSTINATARIO@hotmail.com```
+```main.exe --smtp=mail.SUHOST.es --puerto=25 --from=SUCORREO@HOST.es --password='CLAVE' --sendto=CORREODESSTINATARIO@hotmail.com```
 
 Recibirá un correo por defecto:
 
