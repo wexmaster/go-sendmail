@@ -21,4 +21,4 @@ Para mas ayuda en la consula ejecute main.exe --help
 
 Recibirá un correo por defecto:
 
-![Alt Text]([https://wexmaster.es/img/changerpasswordubiquiti.gif](https://wexmaster.es/img/ejemplo.png)
+![Alt Text](https://wexmaster.es/img/ejemplo.png)
